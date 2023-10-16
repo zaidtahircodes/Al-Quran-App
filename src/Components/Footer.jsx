@@ -13,18 +13,18 @@ export default function Footer() {
                     <HashLink smooth to="/#information" href="#" className="mr-4 hover:underline md:mr-6 ">Information</HashLink>
                 </li>
                 <li>
-                    <a href="#" className="mr-4 hover:underline md:mr-6 ">API used</a>
+                    <a href="https://rapidapi.com/raz0229/api/al-quran1" className="mr-4 hover:underline md:mr-6 ">API used</a>
                 </li>
                 <li>
-                    <a href="#" className="mr-4 hover:underline md:mr-6">Github</a>
+                    <a href="https://github.com/zaidtahircodes" className="mr-4 hover:underline md:mr-6">Github</a>
                 </li>
                 <li>
-                    <a href="#" className="hover:underline">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/zaid-tahir/" className="hover:underline">LinkedIn</a>
                 </li>
             </ul>
         </div>
         <hr className="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
-        <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">Developed by<a href="https://flowbite.com/" class="hover:underline">Zaid Tahir</a></span>
+        <span className="block text-sm text-gray-500 sm:text-center dark:text-gray-400">Developed by<a href="https://linktr.ee/zaidtahir" class="hover:underline"> Zaid Tahir</a></span>
     </div>
 </footer>
 
