@@ -11,8 +11,8 @@ export default function Info() {
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': '68df651bfcmsh44a58e8eff84e87p1ec52fjsnf4f9a84c4fbb',
-            'X-RapidAPI-Host': 'al-quran1.p.rapidapi.com'
+            'X-RapidAPI-Host': 'al-quran1.p.rapidapi.com',
+            'X-RapidAPI-Key': import.meta.env.VITE_API_KEY
         }
     };
 
